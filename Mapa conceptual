@@ -1,0 +1,15 @@
+graph LR
+    A[Conocimiento Científico] --> B{Rigor, Objetividad, Búsqueda de la Verdad}
+    B --> C[Observación]
+    B --> D[Experimentación]
+    B --> E[Razón]
+    A --> F[Pensamiento Moderno]
+    F --> G{Abstracción, Razón, Discurso}
+    F --> H[Experimentación]
+    F --> I{Secularización del Mundo}
+    F --> J[Relación Saber-Poder-Verdad]
+    A -.-> K[Pensamiento Mítico-Religioso]
+    K[Pensamiento Mítico-Religioso] --> L{Mitos, Creencias, Relatos Tradicionales}
+    A --> M[Verdad Científica]
+    M --> N{Observación, Experimentación, Pensamiento Crítico}
+    M --> O{Evolución Constante}
